@@ -1,4 +1,3 @@
-# innomatics-genai-entrance-test
 # Innomatics Research Labs – Advanced GenAI Internship Entrance Test
 
 ## Objective
